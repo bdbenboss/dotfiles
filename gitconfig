@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bdbenboss@hotmail.com
+	name = Benjamin Deconinck
